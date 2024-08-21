@@ -18,3 +18,7 @@ Once `MinerU` is setup then execute this command to get results:
 ```
 magic-pdf -p docs/trimmed_punch_manual.pdf -o output/ -m auto
 ```
+
+
+## TODO
+⬜️ Setup Github script to extract content from files.

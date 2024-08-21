@@ -2,5 +2,6 @@ __pycache__
 .venv
 .mypy_cache
 .env
-*.ipynb
 .DS_Store
+output
+PDF-Extract-Kit
